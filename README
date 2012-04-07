@@ -1,0 +1,7 @@
+Fortune epigrams/cookies files
+
+- How to generate '.dat' file?
+
+Just run 'make'
+
+$ make
